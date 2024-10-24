@@ -1,0 +1,5 @@
+pip install pandas ( for manipulation )
+pip install numpy  ( for numerical operations)
+pip install scikit-learn 
+pip install matplotlib 
+pip install seaborn  ( for data visualization )
